@@ -8,7 +8,7 @@ Shoot to the tomatoes like you are on market.
 ![image](https://github.com/user-attachments/assets/d9993692-b204-48da-89aa-3a28b883ef48)
 
 ## Installing & running
-Copy source code from github. Then cd to the directory of project and write `python -m pip install -r requirments.txt`. To run the game write `python ./main.py`.
+Copy source code from github. Then cd to the directory of project and write `python -m pip install -r requirments.txt`. To run the game write `python ./main.py`. If you are trying to run on linux, write `py` instead of `python`.
 
 ## Credits
 - Олюлю Бахтеева
